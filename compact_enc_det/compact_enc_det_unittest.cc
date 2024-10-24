@@ -20,8 +20,8 @@
 #include <string.h>                     // for strlen, NULL
 #include <string>                       // for string
 
+#include <gtest/gtest.h>
 
-#include "gtest/gtest.h"
 #include "util/basictypes.h"
 #include "util/commandlineflags.h"
 #include "util/varsetter.h"             // for VarSetter

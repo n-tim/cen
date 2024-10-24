@@ -16,7 +16,7 @@
 
 #include "util/encodings/encodings.h"
 
-#include "gtest/gtest.h"
+#include <gtest/gtest.h>
 
 TEST(EncodingsTest, EncodingNameAliasToEncoding) {
   // Test that cases, non-alpha-numeric chars are ignored.

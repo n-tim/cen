@@ -22,7 +22,7 @@
 #include "util/encodings/encodings.h"
 #include "util/languages/languages.h"
 #include "util/port.h"
-#include "gtest/gtest.h"
+#include <gtest/gtest.h>
 
 namespace {
 
